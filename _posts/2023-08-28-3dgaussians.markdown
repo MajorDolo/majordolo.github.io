@@ -4,7 +4,7 @@ title:  "TACIT: TCN And Conformer Integrated
 Two-stream model for Background Music
 Removal"
 date:   2025 -08-28 22:21:59 +00:00
-image: /images/3dgaussian.jpg
+image: TACIT.png
 categories: research
 author: "Solomon Ghebretatios"
 authors: "<strong>Solomon Ghebretatios</strong>, Abdus Saboor Gaffari, Latifa Alhosani" 
